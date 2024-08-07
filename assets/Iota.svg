@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 30 20" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="LetterIota">
+<rect height="50" width="50" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#LetterIota)" id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M21.3566 5.26838L21.36 12.811C21.36 12.811 21.3309 13.8066 22.0746 13.8001C22.8183 13.7935 22.9234 12.6702 22.9385 12.5174L23.3051 12.5185C23.3051 12.5185 23.2677 14.2158 22.1149 14.6036C20.9622 14.9914 20.365 14.343 20.2631 14.2505C20.1611 14.1581 19.8214 13.8316 19.7442 13.1043L19.735 7.54114C19.735 7.54114 19.7632 6.13893 18.376 6.71332L18.2119 6.37086L20.8571 5.27L21.3566 5.26838Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M6.71543 1.23409L12.3372 1.23L12.34 1.58111L11.6826 1.58C11.6826 1.58 10.4628 1.52313 10.4649 3.01613C10.467 4.50913 10.46 12.6592 10.46 12.6592C10.46 12.6592 10.2824 14.0653 11.7428 14.0895L12.34 14.0862L12.3524 14.44L6.72 14.44L6.72 14.09L7.38025 14.0881C7.38025 14.0881 8.58351 14.1686 8.59519 12.6762C8.60687 11.1838 8.6 2.92946 8.6 2.92946C8.6 2.92946 8.63963 1.59064 7.30192 1.58C5.96421 1.56936 6.72 1.58 6.72 1.58L6.71543 1.23409Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</svg>
