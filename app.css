@@ -18,6 +18,7 @@ html, body {
 .section-chapters {
     padding: 10px;
     height: 700px;
+    margin-bottom: 0;
 }
 
 .section-contact {
@@ -425,6 +426,147 @@ h1 {
     -0.25em -0.25em #f5bd02,
     -0.5em -0.5em crimson,
     -0.75em -0.75em rebeccapurple;
+}
+
+@media screen and (max-width: 3000px) {
+    .chapter-selections {
+        margin-top: 250px;
+    }
+
+    .divider-officers{
+        margin-top: 200px;
+    }
+
+    .officer-image {
+        margin-bottom: 40px;
+    }
+
+    .section {
+        margin-top: 300px;
+        margin-bottom: 500px;
+    }
+    
+    .section-chapters {
+        margin-bottom: 300px;
+    }
+
+    .text-title {
+        font-size: 8vw;
+    }
+
+    .text-title-holder {
+        margin-top: 200px;
+    }
+
+    .title-description {
+        margin-top: 200px;
+    }
+}
+
+@media screen and (max-width: 2300px) {
+    .chapter-selections {
+        margin-top: 150px;
+    }
+}
+
+@media screen and (max-width: 2000px) {
+    .chapter-selections {
+        margin-top: 100px;
+    }
+
+    .divider-officers {
+        margin-top: 80px;
+    }
+
+    .officer-image {
+        margin-bottom: 20px;
+    }
+
+    .section {
+        margin-top: 100px;
+        margin-bottom: 200px;
+    }
+    
+    .section-chapters {
+        margin-bottom: 150px;
+    }
+
+    .text-title {
+        font-size: 10vw;
+    }
+
+    .text-title-holder {
+        margin-top: 100px;
+    }
+
+    .title-description {
+        margin-top: 125px;
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    .chapter-selections {
+        margin-top: 80px;
+    }
+
+    .text-title-holder {
+        margin-top: 60px;
+    }
+
+    .title-description {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .chapter-selections {
+        margin-top: 50px;
+    }
+
+    .divider-officers {
+        margin-top: 0px;
+    }
+
+    .officer-image {
+        margin-bottom: 0px;
+    }
+
+    .section {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .section-chapters {
+        margin-bottom: 0px;
+    }
+
+    .text-title {
+        font-size: 12vw;
+    }
+
+    .text-title-holder {
+        margin-top: 25px;
+    }
+
+    .title-description {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width: 1450px) {
+    .chapter-selections {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .chapter-selections {
+        margin-top: 0px;
+    }
+
+    .text-title-holder {
+        margin-top: 0px;
+    }
 }
 
 @media screen and (max-width: 1080px) {
